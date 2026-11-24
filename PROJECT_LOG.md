@@ -47,3 +47,4 @@ Other known issues, noted on their pages: p.२५ tarpaṇa numbering shows ‘
 ## Rebuild
 1. `scripts/tools/make_web_images.ps1` (makes `Images/web/`, resized copies)
 2. `Rscript scripts/build_site.R` (R at `C:\Program Files\R\R-4.6.1\bin\Rscript.exe`)
+- 2026-11-24: git repo created and pushed to https://github.com/abhinavananddwivedi/samvediya_nityakarma_paddhati (public, branch `main`). GitHub Pages serves `main:/docs` (legacy build, same as the mahākāvya); live at https://abhinavananddwivedi.github.io/samvediya_nityakarma_paddhati/ and verified. `Image_files/` (originals) and `Images/web/` are gitignored.
