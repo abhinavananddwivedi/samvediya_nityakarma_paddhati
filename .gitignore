@@ -1,0 +1,8 @@
+# original camera photos (kept locally; upright copies are in Images/pages/)
+/Image_files/
+# regenerable web-sized copies (scripts/tools/make_web_images.ps1)
+/Images/web/
+.Rhistory
+.Rproj.user/
+Thumbs.db
+.DS_Store

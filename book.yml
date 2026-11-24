@@ -1,0 +1,20 @@
+title: "सामवेदीय नित्यकर्म पद्धतिः"
+title_en: "Sāmavedīya Nityakarma Paddhati — the daily rites of the Sāmaveda (Kauthuma recension)"
+subtitle: "सामवेद कौथुम शाखीय नित्यकर्मपद्धतिः"
+byline: "उपस्कर्ता — पं० चन्द्रभूषण द्विवेदी, व्याकरणाचार्य · प्रकाशक — मिश्रीप्रसाद पाण्डेय"
+edition_en: "first edition (1,000 copies), Saṃvat 2005 / 1948 CE"
+about:
+  - "This is a digital edition of a short printed book, **सामवेदीय नित्यकर्म पद्धतिः**: a manual of the daily rites (*nityakarma*) of Brahmins who follow the Kauthuma recension of the Sāmaveda. Pt. Chandrabhushan Dwivedi, Vyākaraṇācārya, of the Ṛṣikula Brahmacaryāśrama at Pachrukhiya (district Deoria), compiled it. Mishri Prasad Pandey published it and the Sanmarg Press, Kashi, printed it. The first edition ran to 1,000 copies; its preface is dated Saṃvat 2005 (1948 CE)."
+  - "The book has three parts. The front matter carries a preface, a foreword, and short histories of the compiler’s and the sponsor’s families, with their portraits. The rite itself runs to 38 pages in 15 sections, from waking before dawn to the night’s last duties. The book closes with gotra tables of the Saryūpārīṇa Brahmins."
+  - "Each page of this site shows the transcription beside the photograph it was read from. The transcription follows the print: its spelling, punctuation, numerals and misprints are kept, and editorial notes point out the misprints. Readings that are uncertain are marked."
+figures:
+  - { src: "p072.jpg", page: "001", caption: "आवरण पृष्ठ (front cover)" }
+  - { src: "figures/p008_portrait.jpg", page: "008", caption: "श्री पं० चन्द्रभूषण द्विवेदी" }
+  - { src: "figures/p009_portrait.jpg", page: "009", caption: "श्री पं० बच्चन मिश्र" }
+sections:
+  - { key: front, name: "आरम्भिक पृष्ठ · Front matter" }
+  - { key: parichay, name: "परिचय · Family histories" }
+  - { key: prayog, name: "अथ सामवेदीय नित्यकर्मप्रयोगः · The daily rite (pp. १–३८)" }
+  - { key: sahayog, name: "सहयोगी सदस्य · Contributors" }
+  - { key: gotra, name: "सरयू पारीण गोत्रावली · Gotra tables" }
+  - { key: back, name: "निवेदन एवं पृष्ठ आवरण · Afterword and back cover" }
